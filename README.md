@@ -14,3 +14,10 @@ what you get
 notes
 - everything is deterministic via seeds inside the env
 - rewards are terminal and zero-sum
+
+---
+todo:
+1. add playing feats vs user
+2. add simple pygame design
+3. improve the model via risk-aware rl methods
+4. destroy all of my friends and win all of their money :)
