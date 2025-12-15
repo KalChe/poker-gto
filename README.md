@@ -14,4 +14,3 @@ what you get
 notes
 - everything is deterministic via seeds inside the env
 - rewards are terminal and zero-sum
-- comments stay lowercase
